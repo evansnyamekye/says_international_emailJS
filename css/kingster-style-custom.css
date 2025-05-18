@@ -70,7 +70,7 @@ textarea { border-bottom-width: 1px; }
   -webkit-border-radius: 50%;
 }
 .gdlr-core-tab-item .gdlr-core-tab-item-wrap { overflow: hidden; }
-.gdlr-core-tab-item .gdlr-core-tab-item-image-background { display: block; width: 100%; height: 100%; background-size: cover; a background-position: center;background-positionbackground-position }
+.gdlr-core-tab-item .gdlr-core-tab-item-image-background { display: block; width: 100%; height: 100%; background-size: cover; background-position:center; background-position: background-position }
 
 .gdlr-core-blockquote-item .gdlr-core-blockquote-item-content { font-style: normal; }
 .gdlr-core-blockquote-item .gdlr-core-blockquote-item-author { font-style: normal; }
@@ -128,7 +128,7 @@ textarea { border-bottom-width: 1px; }
 .gdlr-core-personnel-style-grid .gdlr-core-personnel-list-social,
 .gdlr-core-personnel-style-modern .gdlr-core-personnel-list-social,
 .gdlr-core-personnel-style-medium .gdlr-core-personnel-list-social { margin-top: 0; margin-bottom: 10px; }
-.gdlr-core-personnel-style-grid.gdlr-core-with-background .gdlr-core-personnel-list-content-wrap { padding: 35px 40px 20px; border-bottom-width: 3px; border-bottom-style: solid; }
+.gdlr-core-personnel-style-grid.gdlr-core-with-background .gdlr-core-personnel-list-content-wrap { padding: 35px 40px 20px; border-bottom-width: 3px; border-bottom-style: solid;}
 
 .gdlr-core-blog-info-wrapper .gdlr-core-head { vertical-align: baseline; margin-right: 7px; }
 .gdlr-core-blog-info-wrapper .gdlr-core-blog-info { font-size: 13px; font-weight: 600; margin-right: 12px; }
@@ -146,7 +146,7 @@ textarea { border-bottom-width: 1px; }
   -webkit-border-radius: 3px;
 }
 .gdlr-core-blog-widget .gdlr-core-blog-info-wrapper { margin-bottom: 6px; }
-.gdlr-core-blog-widget .gdlr-core-blog-title{ margin-bottom 0px }
+.gdlr-core-blog-widget .gdlr-core-blog-title{ margin-bottom: 0px }
 
 ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-list { font-size: 16px; margin-top: -18px; }
 ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-list li a { padding-left: 0; border: none; font-weight: 400; }
